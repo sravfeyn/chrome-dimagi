@@ -2,6 +2,10 @@
   "manifest_version": 2,
   "version": "0.1",
   "name": "Dimagi Chrome",
+  "icons": {
+    "128": "icons/128-chrome-dimagi.png"
+  },
+  "description": "Set of Chrome utilities for Dimagi Staff",
   "content_scripts": [
     {
       "matches": ["https://confluence.dimagi.com/"],
