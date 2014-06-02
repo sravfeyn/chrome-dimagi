@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Dimagi Chrome",
+  "content_scripts": [
+    {
+      "matches": ["https://confluence.dimagi.com/"],
+      "css": [],
+      "js": ["js/confluence.js"]
+    }
+  ],
+  "web_accessible_resources": ["js/confluence.js"]
+}
