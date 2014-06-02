@@ -1,7 +1,5 @@
-chrome-dimagi
+Chrome Extension for Dimagi
 =============
-
-#Chrome Extenstion for Dimagi 
 
 This is a suit of chrome utilities for web-tools used at Dimagi. It currently contains following.
 
