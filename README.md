@@ -1,6 +1,8 @@
 Chrome Extension for Dimagi
 =============
 
+![Chrome Dimagi](https://raw.githubusercontent.com/sravfeyn/chrome-dimagi/master/icons/128-chrome-dimagi.png)
+
 This is a suit of chrome utilities for web-tools used at Dimagi. It currently contains following.
 
 * Have "Recently Viewed Pages" on Confluence home page open by default.
