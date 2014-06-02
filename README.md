@@ -8,7 +8,7 @@ This is a suit of chrome utilities for web-tools used at Dimagi. It currently co
 * Have "Recently Viewed Pages" on Confluence home page open by default.
 
 #### Installtion
-Go to https://github.com/sravfeyn/chrome-dimagi/releases/tag/0.1 to see installation instructions.
+Go and grab [Extension Installer](https://github.com/sravfeyn/chrome-dimagi/releases/tag/0.1) to install on your Chrome/Chromium.
 
 #### Devlopment
 
